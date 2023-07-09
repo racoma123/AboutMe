@@ -216,3 +216,13 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+.tool{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+.tool img{
+  height: 90px;
+  width: 90px;
+  margin-top: 20px;
+}
